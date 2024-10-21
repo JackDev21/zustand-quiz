@@ -1,6 +1,6 @@
 # JavaScript Quiz App con Zustand
 
-![Quiz App Screenshot](./public/img/img.png)
+![app](javascript-quizz/public/img/img.png)
 
 Este es un proyecto de **quiz de JavaScript** que utiliza **Zustand** para la gestión del estado. El objetivo es permitir a los usuarios responder preguntas de JavaScript y obtener su puntuación al final.
 
@@ -46,6 +46,4 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu entorno local:
 
 5. Abre el navegador en `http://localhost:5173/` para ver el proyecto en acción.
 
-## Capturas de pantalla
 
-![Quiz App Question](./public/img/img-question.png)
