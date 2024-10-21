@@ -46,4 +46,6 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu entorno local:
 
 5. Abre el navegador en `http://localhost:5173/` para ver el proyecto en acción.
 
+## Créditos
 
+Este proyecto está inspirado en un ejercicio realizado por **midudev**. Lo he replicado y adaptado como parte de mi práctica personal para mejorar mis habilidades con **React** y **Zustand**.
