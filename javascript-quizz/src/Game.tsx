@@ -6,7 +6,7 @@ import { gradientDark } from "react-syntax-highlighter/dist/esm/styles/hljs"
 import { useQuestionsStore } from "./store/questions"
 
 import { type Question as QuestionType } from "./types"
-import { ArrowBackIosNew, ArrowForward, ArrowForwardIos } from "@mui/icons-material"
+import { ArrowBackIosNew, ArrowForwardIos } from "@mui/icons-material"
 import { Footer } from "./Footer"
 
 const Question = ({ info }: { info: QuestionType }) => {
