@@ -1,5 +1,5 @@
 import { Button } from "@mui/material"
-import { useQuestionData } from "./hooks/useQUestionsData"
+import { useQuestionData } from "./hooks/useQuestionsData"
 import { useQuestionsStore } from "./store/questions"
 
 export function Footer() {
